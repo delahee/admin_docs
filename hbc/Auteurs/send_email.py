@@ -81,7 +81,7 @@ def send_email(name, to, subject, body_txt, body_path = None, attachment_path=No
 #check out : https://www.samlogic.net/articles/reduce-spam-score.htm
 
 def test_params():
-	to = "david.elahee@gmail.com"
+	to = "toto@gmail.com"
 	subject = "test email 0"
 	body_txt = "my body my soul but why the fk am i writin this!"
 	#body_path = "email_body.txt"
@@ -97,7 +97,7 @@ def test_params():
 			   server=server, port=port)
 	
 def test_file():
-	to = "david.elahee@gmail.com"
+	to = "toto@gmail.com"
 	subject = "test email 1"
 	body_txt = "my body my soul"
 	attachment_path = "Roboto-Medium.ttf"
