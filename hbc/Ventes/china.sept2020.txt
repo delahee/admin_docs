@@ -1,0 +1,43 @@
+{'start': '31/12/2015', 'end': '31/08/2020', 'country': 'China'}
+period start>d: 31 m: 12 y:2015
+period end>d: 31 m: 08 y:2020
+country China
+D:\Drive\HBC\Business\Ventes/Steam
+using Steam/SteamSalesByCountry_April_2018.csv
+using Steam/SteamSalesByCountry_April_2019.csv
+using Steam/SteamSalesByCountry_April_2020.csv
+using Steam/SteamSalesByCountry_August_2018.csv
+using Steam/SteamSalesByCountry_August_2019.csv
+using Steam/SteamSalesByCountry_August_2020.csv
+using Steam/SteamSalesByCountry_December_2018.csv
+using Steam/SteamSalesByCountry_December_2019.csv
+using Steam/SteamSalesByCountry_February_2019.csv
+using Steam/SteamSalesByCountry_February_2020.csv
+using Steam/SteamSalesByCountry_January_2019.csv
+using Steam/SteamSalesByCountry_January_2020.csv
+using Steam/SteamSalesByCountry_July_2018.csv
+using Steam/SteamSalesByCountry_July_2019.csv
+using Steam/SteamSalesByCountry_July_2020.csv
+using Steam/SteamSalesByCountry_June_2018.csv
+using Steam/SteamSalesByCountry_June_2019.csv
+using Steam/SteamSalesByCountry_June_2020.csv
+using Steam/SteamSalesByCountry_March_2018.csv
+using Steam/SteamSalesByCountry_March_2019.csv
+using Steam/SteamSalesByCountry_March_2020.csv
+using Steam/SteamSalesByCountry_May_2018.csv
+using Steam/SteamSalesByCountry_May_2019.csv
+using Steam/SteamSalesByCountry_May_2020.csv
+using Steam/SteamSalesByCountry_November_2018.csv
+using Steam/SteamSalesByCountry_November_2019.csv
+using Steam/SteamSalesByCountry_October_2018.csv
+using Steam/SteamSalesByCountry_October_2019.csv
+using Steam/SteamSalesByCountry_September_2018.csv
+using Steam/SteamSalesByCountry_September_2019.csv
+
+DOUBLE KICK HEROES
+
+Overall Net Sales for territory :China
+Period :12/31/2015 12:00:00 AM to 8/31/2020 12:00:00 AM
+USD : $3427.65
+ GROSS EUR 0.0€ 
+Units: 509
